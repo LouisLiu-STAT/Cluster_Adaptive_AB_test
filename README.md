@@ -6,3 +6,11 @@ This repository contains  the R codes used for the numerical studies in  "Adapti
 
  Please install the following packages: "dplyr"       , "Rcpp"       , "parallel" , "iterators"   , "foreach"    , "registry"   , "pkgmaker" ,
                      "rngtools"    , "doRNG"      , "doParallel" ,"igraph", "randnet","dplyr".
+            
+## Instructions
+1. The Rcpp file "NW_CL_Rcpp.cpp" contains the Rcpp fuctions used for the design and esimation.
+2. The R file "NETWORK.FUNCTIONS.R" contains the functions for different designs, the functions used to evaluate the weights for the Horivitz Thompson estimators, and the evaluation of the ATEs. 
+3. The R file "2TypeCLsResults.R" contains the codes for the four clusters example.
+4. The R file "Large_Numerical_Clusters.R" contains the code for the numerical study for the hypothestical network.
+5. The R file "MIT_NETWORK.R" contains the code for the numerical study for the MIT Phone call network.   
+6. The R file "FB_Pages_Network.R" contains the code for the numerical study for the Facebook page to page network.                     
