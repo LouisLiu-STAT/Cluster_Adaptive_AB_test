@@ -14,3 +14,4 @@ This repository contains  the R codes used for the numerical studies in  "Adapti
 4. The R file "Large_Numerical_Clusters.R" contains the code for the numerical study for the hypothestical network.
 5. The R file "MIT_NETWORK.R" contains the code for the numerical study for the MIT Phone call network.   
 6. The R file "FB_Pages_Network.R" contains the code for the numerical study for the Facebook page to page network.                     
+7. The Rdata files "FB_NEW.Rdata" and "MIT_CL.Rdata" consist of the information of the adjacancy matrices, and the labels of the clusters of the Facebook page to page network and the MIT phone call network used in the numerical studies.  
